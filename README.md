@@ -1,1 +1,1 @@
-nucreditbegin:fyinformation.cc:nucreditend
+nucreditbegin:nucredit.cyou:nucreditend
